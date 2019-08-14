@@ -1,0 +1,1 @@
+cls & go build -o server.exe -ldflags "-s -w" main.go & cmd /k

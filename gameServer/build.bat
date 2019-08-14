@@ -1,0 +1,1 @@
+cls & go build -o server.exe main.go & cmd /k

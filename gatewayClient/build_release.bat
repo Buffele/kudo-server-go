@@ -1,0 +1,1 @@
+cls & go build -ldflags "-s -w" -o client.exe main.go & cmd /k

@@ -1,0 +1,1 @@
+cls & go build -o unpacker.exe main.go & cmd /k

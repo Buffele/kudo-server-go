@@ -1,0 +1,1 @@
+cls & go build -o client.exe main.go & cmd /k

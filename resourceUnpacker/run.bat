@@ -1,0 +1,1 @@
+cls & go run main.go & cmd /k

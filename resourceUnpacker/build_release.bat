@@ -1,0 +1,1 @@
+cls & go build -o unpacker.exe -ldflags "-s -w" main.go & cmd /k
